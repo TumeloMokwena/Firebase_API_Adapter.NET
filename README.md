@@ -13,7 +13,7 @@ Features to be outlined below once completed and fully tested.
 *
 
 
-License and Terms
+#License and Terms
 Firebase_API_Adapter.NET is licensed under the Apache License, version 2.0.
 
 Your use of Firebase is governed by the Terms of Service for Firebase Services.
