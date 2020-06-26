@@ -1,4 +1,4 @@
-# Firebase_API_Adapter.NET
+#Firebase_API_Adapter.NET
 A .NET Core API adapter to get .NET developers started.
 
 Author: Tumelo Mokwena, Email: info@tumelomokwena.com, Website: https://tumelomokwena.com
