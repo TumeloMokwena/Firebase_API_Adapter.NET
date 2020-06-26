@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FirebaseAPI_Adapter.NET/v16/Server/sqlite3
+/.vs/FirebaseAPI_Adapter.NET/v15
+/.vs/FirebaseAPI_Adapter.NET/v16
+/obj
+/.vs/FirebaseAPI_Adapter.NET/DesignTimeBuild
+/.vs/Firebase_API_Adapter.NET/v16

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirebaseAPI_Adapter.NET", "FirebaseAPI_Adapter.NET.csproj", "{4381EC82-D870-4913-87A8-51B9A4D1B19F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebaseAPI_Adapter.NET.Repository", "..\FirebaseAPI_Adapter.NET.Repository\FirebaseAPI_Adapter.NET.Repository.csproj", "{0E99EF7B-FDEA-419C-8801-4018E7AF71CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4381EC82-D870-4913-87A8-51B9A4D1B19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4381EC82-D870-4913-87A8-51B9A4D1B19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4381EC82-D870-4913-87A8-51B9A4D1B19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4381EC82-D870-4913-87A8-51B9A4D1B19F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E99EF7B-FDEA-419C-8801-4018E7AF71CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E99EF7B-FDEA-419C-8801-4018E7AF71CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E99EF7B-FDEA-419C-8801-4018E7AF71CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E99EF7B-FDEA-419C-8801-4018E7AF71CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92ABEFC9-2ED4-4FEE-99AE-A6AF9998C467}
+	EndGlobalSection
+EndGlobal
