@@ -8,3 +8,4 @@
 /obj
 /.vs/FirebaseAPI_Adapter.NET/DesignTimeBuild
 /.vs/Firebase_API_Adapter.NET/v16
+/bin/Debug/netcoreapp3.0
